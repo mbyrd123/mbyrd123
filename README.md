@@ -1,6 +1,6 @@
 ### Technologies & Tools 🔧
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=purple)
-![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=VScode-idea&logoColor=white&color=2bbc8a)
+
 
 <!--
 **mbyrd123/mbyrd123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
