@@ -1,4 +1,4 @@
-[![Header](https://github.com/mbyrd123/mbyrd123/blob/main/GithubBanner.png "Header")]
+![Header](https://github.com/mbyrd123/mbyrd123/blob/main/GithubBanner.png "Header")
 
 ### Technologies & Tools 🔧
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=purple)
