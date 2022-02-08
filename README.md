@@ -2,6 +2,7 @@
 
 ### Technologies & Tools 🔧
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?q=vs%20code-idea&logoColor=white&color=2bbc8a)
 
 
 <!--
